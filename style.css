@@ -121,6 +121,7 @@ section {
     color: #555;
 }
 .scroll-container {
+    background-color: invisible;
     display: flex;
     overflow-x: auto;
     padding: 20px;
